@@ -1,0 +1,11 @@
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/bin/Debug/netcoreapp3.0/BattleshipGame
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/bin/Debug/netcoreapp3.0/BattleshipGame.deps.json
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/bin/Debug/netcoreapp3.0/BattleshipGame.runtimeconfig.json
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/bin/Debug/netcoreapp3.0/BattleshipGame.runtimeconfig.dev.json
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/bin/Debug/netcoreapp3.0/BattleshipGame.dll
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/bin/Debug/netcoreapp3.0/BattleshipGame.pdb
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/obj/Debug/netcoreapp3.0/BattleshipGame.csprojAssemblyReference.cache
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/obj/Debug/netcoreapp3.0/BattleshipGame.AssemblyInfoInputs.cache
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/obj/Debug/netcoreapp3.0/BattleshipGame.AssemblyInfo.cs
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/obj/Debug/netcoreapp3.0/BattleshipGame.dll
+/Users/tacianeoliveira/Documents/Interviews/Flare/BattleshipGame/obj/Debug/netcoreapp3.0/BattleshipGame.pdb
